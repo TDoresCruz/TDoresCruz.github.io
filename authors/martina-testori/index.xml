@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martina Testori on Terence Dores Cruz - PhD Candidate</title>
+    <link>https://terencedorescruz.com/authors/martina-testori/</link>
+    <description>Recent content in Martina Testori on Terence Dores Cruz - PhD Candidate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://terencedorescruz.com/authors/martina-testori/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Integrative Definition and Framework to Study Gossip</title>
+      <link>https://terencedorescruz.com/publication/gossipdefined_preprint/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/publication/gossipdefined_preprint/</guid>
+      <description>We systematically reviewed of all definition of gossip in the scientific literature. First, we define gossip as a sender communicating to a receiver about a target, who is absent or unaware of  the content. Second, we propose an integrative to study gossip as varying in valence and formality.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,19 @@
     <description>Recent content in Terence D. Dores Cruz on Terence Dores Cruz - PhD Candidate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://terencedorescruz.com/authors/terence-d.-dores-cruz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prosocial and punishment behaviors in everyday life</title>
+      <link>https://terencedorescruz.com/publication/prosocialpunishmenteverydaylife/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/publication/prosocialpunishmenteverydaylife/</guid>
+      <description>Review paper outlining how research can benefit from studying prosocial and punishment behaviors in daily life using experience sampling and diary methods that document natural phenomena.</description>
+    </item>
     
     <item>
       <title>Gossip and Reputation in Everyday Life</title>
@@ -18,6 +27,15 @@
       
       <guid>https://terencedorescruz.com/publication/gossipreputationineverydaylife-preprint/</guid>
       <description>Large experience sampling study showing people use gossip in daily life gossip efficiently impact and update reputations in a way that enables partner selection and indirect reciprocity.</description>
+    </item>
+    
+    <item>
+      <title>Honesty and dishonesty in gossip strategies: a fitness interdependence analysis</title>
+      <link>https://terencedorescruz.com/publication/honestdishoneststrategiesgossip/</link>
+      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/publication/honestdishoneststrategiesgossip/</guid>
+      <description>Theoretical paper outlining when gossiper should share honest versus dishonest information based on the interdependence structure in which gossip occurs and the marginal costs/benefits of gossip</description>
     </item>
     
     <item>
@@ -67,10 +85,10 @@
     
     <item>
       <title>The Look Over Your Shoulder: Unethical Behaviour Decreases in the Physical Presence of Observers</title>
-      <link>https://terencedorescruz.com/publication/lookovershould-preprint/</link>
+      <link>https://terencedorescruz.com/publication/lookovershoulder-preprint/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://terencedorescruz.com/publication/lookovershould-preprint/</guid>
+      <guid>https://terencedorescruz.com/publication/lookovershoulder-preprint/</guid>
       <description>The presence of an observing others curbs unethical behavior, while mere presence of an (unobserving other does not. The influence of an observing other is not qualified by payoff structure or social proximity.</description>
     </item>
     

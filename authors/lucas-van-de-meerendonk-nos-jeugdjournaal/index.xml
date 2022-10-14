@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas van de Meerendonk, NOS Jeugdjournaal on Terence Dores Cruz - PhD Candidate</title>
+    <link>https://terencedorescruz.com/authors/lucas-van-de-meerendonk-nos-jeugdjournaal/</link>
+    <description>Recent content in Lucas van de Meerendonk, NOS Jeugdjournaal on Terence Dores Cruz - PhD Candidate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Mar 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://terencedorescruz.com/authors/lucas-van-de-meerendonk-nos-jeugdjournaal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Waarom niemand roddelen leuk vindt, maar iedereen het toch doet</title>
+      <link>https://terencedorescruz.com/post/interview-nos-jeugdjournaal/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/post/interview-nos-jeugdjournaal/</guid>
+      <description>Interview with journalist Lucas van de Meerendonk about my work gossip for a YouTube series investigating different topics in a way that is understandable for children as part of the NOS Jeugdjournaal, the news for children.</description>
+    </item>
+    
+  </channel>
+</rss>

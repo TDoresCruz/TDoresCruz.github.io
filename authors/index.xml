@@ -1,15 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Terence Dores Cruz - PhD Candidate</title>
+    <title>Authors on Terence Dores Cruz - Postdoctoral Researcher</title>
     <link>https://terencedorescruz.com/authors/</link>
-    <description>Recent content in Authors on Terence Dores Cruz - PhD Candidate</description>
+    <description>Recent content in Authors on Terence Dores Cruz - Postdoctoral Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://terencedorescruz.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bianca Beersma</title>
+      <link>https://terencedorescruz.com/authors/bianca-beersma/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/authors/bianca-beersma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myriam Bechtoldt</title>
+      <link>https://terencedorescruz.com/authors/myriam-bechtoldt/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/authors/myriam-bechtoldt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romy van der Lee</title>
+      <link>https://terencedorescruz.com/authors/romy-van-der-lee/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/authors/romy-van-der-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terence Dores Cruz</title>
+      <link>https://terencedorescruz.com/authors/terence-dores-cruz/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/authors/terence-dores-cruz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emma Sprangers - Advalvas</title>
+      <link>https://terencedorescruz.com/authors/emma-sprangers-advalvas/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/authors/emma-sprangers-advalvas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hersenkrakers, SPS-NIP</title>
+      <link>https://terencedorescruz.com/authors/hersenkrakers-sps-nip/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/authors/hersenkrakers-sps-nip/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Rens de Jong - BNR Nieuwsradio</title>
@@ -44,15 +98,6 @@
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://terencedorescruz.com/authors/elena-martinescu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Terence Dores Cruz</title>
-      <link>https://terencedorescruz.com/authors/terence-dores-cruz/</link>
-      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://terencedorescruz.com/authors/terence-dores-cruz/</guid>
       <description></description>
     </item>
     
@@ -183,15 +228,6 @@
     </item>
     
     <item>
-      <title>Bianca Beersma</title>
-      <link>https://terencedorescruz.com/authors/bianca-beersma/</link>
-      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://terencedorescruz.com/authors/bianca-beersma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Francesca Righetti</title>
       <link>https://terencedorescruz.com/authors/francesca-righetti/</link>
       <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
@@ -314,15 +350,6 @@
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://terencedorescruz.com/authors/martina-testori/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Romy van der Lee</title>
-      <link>https://terencedorescruz.com/authors/romy-van-der-lee/</link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://terencedorescruz.com/authors/romy-van-der-lee/</guid>
       <description></description>
     </item>
     
@@ -494,8 +521,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://terencedorescruz.com/authors/admin/</guid>
-      <description>Terence D. Dores Cruz is a PhD Candidate in the department of Organizational Sciences (Faculty of Social Sciences) at the Vrije Universiteit Amsterdam. Terence currently studies gossip in Bianca Beersma’s ERC-Consolidator Grant Project FORCE-OF-GOSSIP. Terence is also the student-representative for the Kurt Lewin Institute. Terence holds a research master&amp;rsquo;s degree from the Vrije Universiteit Amsterdam (Amsterdam Cooperation Lab) and bachelor&amp;rsquo;s degree from the Vrije Universiteit Amsterdam.
-Terence&amp;rsquo;s main research interests are human cooperation (and non-cooperation) and how cooperative behavior is shaped by reputation and gossip.</description>
+      <description>Terence D. Dores Cruz is a Postdoctoral Researcher at the Center for Research in Experimental Economics and political Decision making (CREED) at the Universiteit van Amsterdam (Faculty of Business and Economics). Terence currently studies ethical decision-making and the role of (social) information therein at Shaul Shalvi’s Behavior Ethics Lab. Terence is completing his PhD in Bianca Beersma&amp;rsquo;s FORCE-OF-GOSSIP group, where he studied the cooperative and competitive functions of gossip. During his PhD, Terence was also the student-representative for the Kurt Lewin Institute.</description>
     </item>
     
   </channel>

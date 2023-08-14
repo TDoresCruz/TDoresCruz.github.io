@@ -1,15 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Terence Dores Cruz - PhD Candidate</title>
+    <title>Recent &amp; Upcoming Talks on Terence Dores Cruz - Postdoctoral Researcher</title>
     <link>https://terencedorescruz.com/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Terence Dores Cruz - PhD Candidate</description>
+    <description>Recent content in Recent &amp; Upcoming Talks on Terence Dores Cruz - Postdoctoral Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Sep 2022 08:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jul 2023 02:40:00 +0000</lastBuildDate>
     
 	<atom:link href="https://terencedorescruz.com/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Symposium The Functions of Gossip - Novel Insights from the Lab and the Field</title>
+      <link>https://terencedorescruz.com/talk/easp-gossip-symp/</link>
+      <pubDate>Sat, 01 Jul 2023 02:40:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/talk/easp-gossip-symp/</guid>
+      <description>I organized a symposium on the functions of gossip based on recent insights across experiments in the lab and studies in the field. The symposium includes 5 talks taking using diverse methods to study functions gossip. In the symposium, I present my work on how people use gossip strategically to shape how receivers of gossip behave towards gossip targets.</description>
+    </item>
+    
+    <item>
+      <title>Welk nut heeft roddelen?</title>
+      <link>https://terencedorescruz.com/talk/scicafeenschede/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/talk/scicafeenschede/</guid>
+      <description>Discussion of the definition of gossip, presentation of results from experience sampling and experimental studies for a broad audience.</description>
+    </item>
+    
+    <item>
+      <title>Het Nut van Roddelen</title>
+      <link>https://terencedorescruz.com/talk/socialanimal/socialanimal/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/talk/socialanimal/socialanimal/</guid>
+      <description>Popular Science Talk on Gossip in Everyday Life.</description>
+    </item>
+    
+    <item>
+      <title>Wat is roddelen en waarom doen we dat?</title>
+      <link>https://terencedorescruz.com/talk/filcafedelft/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/talk/filcafedelft/</guid>
+      <description>Discussion of the definition of gossip, presentation of results from experience sampling and experimental studies for a broad audience.</description>
+    </item>
+    
+    <item>
+      <title>Understanding and Studying Gossip</title>
+      <link>https://terencedorescruz.com/talk/uvasocialminds/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/talk/uvasocialminds/</guid>
+      <description>Presentation of results from the gossip in everyday life paper and discussion of experience sampling methods (to study gossip)/</description>
+    </item>
+    
+    <item>
+      <title>Defining and Studying (Organizational) Gossip</title>
+      <link>https://terencedorescruz.com/talk/cbop_uq_talk/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/talk/cbop_uq_talk/</guid>
+      <description>The omnipresence of workplace gossip makes understanding gossip processes imperative to understand social life in organizations. Although gossip research has recently increased across the social sciences, gossip is conceptualized in disparate ways in the scientific literature. This conceptual confusion impedes theoretical integration and providing practical advice. To resolve this, we systematically reviewed 6114 scientific articles on gossip and identified 324 articles that define gossip. From these definitions, we extracted two essential characteristics of gossip on which there seems to be agreement within the literature, namely, (1) that gossip is communication between humans involving a sender, a receiver, and a target, and (2) that the target is absent or unaware of the communicated content. These two characteristics formed the basis of a broad, integrative definition of gossip: a sender communicating to a receiver about a target who is absent or unaware of the content. Furthermore, some definitions include characteristics on which there is less agreement: gossip valence (from negative to neutral to positive) and formality (from informal to intermediate to formal). We incorporate these characteristics in a dimensional scaling framework that can guide future research. Our broad, integrative definition of gossip and the dimensional scaling framework provide the building blocks for a systematic, integrated knowledge base on the role of gossip in human social life in general as well as in organizations. This can foster future theory development and hypothesis testing, ultimately helping organizations to manage gossip.</description>
+    </item>
     
     <item>
       <title>The Costs and Benefits of Gossip</title>

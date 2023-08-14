@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Terence Dores Cruz - PhD Candidate</title>
+    <title>Publications on Terence Dores Cruz - Postdoctoral Researcher</title>
     <link>https://terencedorescruz.com/publication/</link>
-    <description>Recent content in Publications on Terence Dores Cruz - PhD Candidate</description>
+    <description>Recent content in Publications on Terence Dores Cruz - Postdoctoral Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://terencedorescruz.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nasty and Noble Notes: Interdependence Structures Drive Self-Serving Gossip</title>
+      <link>https://terencedorescruz.com/publication/nastynoblenotes/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://terencedorescruz.com/publication/nastynoblenotes/</guid>
+      <description>We found that the interdependence between the parties involved in gossip (sender, receiver, and target) shapes whether gossip is more likely trustworthy versus untrustworthy. In a scenario study and an interactive experiment, gossip was more likely false when senders were interdependent with targets.</description>
+    </item>
     
     <item>
       <title>How political orientation, economic precarity, and participant demographics impact compliance with COVID-19 prevention measures in a Dutch representative sample</title>
@@ -21,7 +30,7 @@
     </item>
     
     <item>
-      <title>Hostile media perceptionaffects news bias, but not news sharing intentions</title>
+      <title>Hostile media perception affects news bias, but not news sharing intentions</title>
       <link>https://terencedorescruz.com/publication/hostilemediaperception/</link>
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
       

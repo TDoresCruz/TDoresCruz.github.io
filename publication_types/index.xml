@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Terence Dores Cruz - PhD Candidate</title>
+    <title>Publication_types on Terence Dores Cruz - Postdoctoral Researcher</title>
     <link>https://terencedorescruz.com/publication_types/</link>
-    <description>Recent content in Publication_types on Terence Dores Cruz - PhD Candidate</description>
+    <description>Recent content in Publication_types on Terence Dores Cruz - Postdoctoral Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://terencedorescruz.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>0</title>
-      <link>https://terencedorescruz.com/publication_types/0/</link>
-      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <title>2</title>
+      <link>https://terencedorescruz.com/publication_types/2/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://terencedorescruz.com/publication_types/0/</guid>
+      <guid>https://terencedorescruz.com/publication_types/2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>2</title>
-      <link>https://terencedorescruz.com/publication_types/2/</link>
-      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <title>0</title>
+      <link>https://terencedorescruz.com/publication_types/0/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://terencedorescruz.com/publication_types/2/</guid>
+      <guid>https://terencedorescruz.com/publication_types/0/</guid>
       <description></description>
     </item>
     
